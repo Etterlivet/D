@@ -1,7 +1,6 @@
 /* eslint-disable ts/no-require-imports */
 import type { Config } from 'tailwindcss';
-@import url('https://fonts.cdnfonts.com/css/didot-2');
-@import url('https//fonts.cdnfonts.com/css/eau');
+
 const config = {
   darkMode: ['class'],
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
