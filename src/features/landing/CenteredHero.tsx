@@ -5,7 +5,7 @@ export const CenteredHero = (props: {
   buttons: React.ReactNode;
 }) => (
   <>
-    <div className="">{props.banner}</div>    {/* removed text-center, div className="text-center"  */}
+       {/* removed   <div className="text-center">{props.banner}</div>    */}
 
     <div className="mt-3 text-center text-5xl font-heading tracking-tight">
       {props.title}
