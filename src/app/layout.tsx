@@ -7,7 +7,7 @@ import {
   SignedOut,
   UserButton,
 } from '@clerk/nextjs'
-import '../styles/globals.css'
+import '../styles/global.css'
 
 export const metadata: Metadata = {
   title: 'Clerk Next.js Quickstart',
