@@ -10,7 +10,7 @@ import {
 import { Roboto, Roboto_Mono  } from 'next/font/google'
 import '../styles/global.css'
 
-/ Define Roboto Sans
+// Define Roboto Sans
 const robotoSans = Roboto({
   weight: ['400', '700'], // normal + bold
   subsets: ['latin'],
